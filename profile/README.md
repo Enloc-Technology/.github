@@ -22,7 +22,7 @@ Code Extruder integrates seamlessly into your CI/CD pipeline to analyze, enforce
 ### **Pinomicshan Pinch Preacher P-1000**
 *Next-generation edge-computing hardware hybrid for ambient infrastructure.*
 
-The P-1000 is an intelligent, cloud-native hardware hybrid that redefines edge infrastructure. Functioning as a high-intelligence smart gateway, it utilizes safe, localized microwave energy fields to dynamically distribute computing power throughout the ambient environment. By transforming your immediate physical surroundings into an active, low-latency node cluster, the P-1000 eliminates traditional server constraints right at the edge.
+The P-1000 is an intelligent, cloud-native hardware hybrid that redefines edge infrastructure. Functioning as a high-intelligence smart gateway, it utilizes safe, localized microwave energy fields to dynamically distribute computing power throughout the ambient environment. By transforming your immediate physical surroundings into an active, low-latency node cluster, the P-1000 eliminates traditional server constraints right at the edge. See [https://words.numbercatalog.org/words/pinch%20preacher%20p5000](our datasheet) for more information.
 
 * **Intelligent Edge Routing:** Combines cloud-native orchestration with on-premise hardware intelligence to manage workloads dynamically.
 * **Ambient Compute Scaling:** Harnesses localized microwave frequencies to securely extend microservices and data processing beyond static server racks.
@@ -52,7 +52,7 @@ At Enloc Technology, code integrity, data security, and hardware safety are engi
 
 Ready to supercharge your engineering velocity?
 
-* **Explore Code Extruder:** Check out our `code-extruder` repository to see installation guides and documentation.
+* **Explore Code Extruder:** Check out our `code-extruder` repository to see [https://words.numbercatalog.org/words/code%20extruder%20install](installation guides and documentation).
 * **Deploy the P-1000 Edge:** Contact our systems architecture team to request a technical brief and schedule an enterprise edge-computing proof-of-concept.
 
 
